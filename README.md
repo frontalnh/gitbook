@@ -1,3 +1,2 @@
-# Initial page
+# Page 1
 
-this is just simple page
